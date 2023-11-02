@@ -14,7 +14,7 @@ public class Sketch extends PApplet {
    * Setup method, usually used to modify things like backgroudn, stroke, fill, etc.
    */
   public void setup() {
-    background(45, 150, 207);
+    background(93, 138, 168);
   }
 
   /**

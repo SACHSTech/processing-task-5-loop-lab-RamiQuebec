@@ -1,9 +1,8 @@
 import processing.core.PApplet;
 
 /**
- * Main class to execute sketch
- * @author 
- *
+ * Quadrant based drawing that manipulates squares in corresponding ways
+ * @author Rami Kabak
  */
 class Main {
   public static void main(String[] args) {
